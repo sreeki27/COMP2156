@@ -1,0 +1,18 @@
+{
+  "name": "comp2156",
+  "version": "1.0.0",
+  "description": "Created comp2156 lab excercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "ci" :"echo \"Error : no ci specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sreeki27/COMP2156.git"
+  },
+  "keywords": [],
+  "author": "Sreekrishnan",
+  "license": "ISC"
+  
+}
